@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Micoverse!
 
 > This is my first project at Micoverse. In it I include Linterns to check syntax errors, potencial problems and check the standard adherance of the code .
 
